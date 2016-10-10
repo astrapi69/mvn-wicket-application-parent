@@ -9,6 +9,7 @@
 	</parent>
 
 	<artifactId>mvn-wicket-application-parent</artifactId>
+	<version>7.4.2</version>
 	<packaging>pom</packaging>
 
 	<name>${project.artifactId}</name>
@@ -82,8 +83,8 @@
 		<!-- WICKET-SOURCE version -->
 		<wicket-source.version>7.0.0</wicket-source.version>
 		<!-- JETTY 9 version -->
-		<jetty9.version>9.4.0.M0</jetty9.version>
-		<jetty9-runner.version>3.6.0</jetty9-runner.version>
+		<jetty9.version>9.4.0.M1</jetty9.version>
+		<jetty9-runner.version>3.8.0</jetty9-runner.version>
 		<xml-apis.version>1.4.01</xml-apis.version>
 		<yuicompressor.version>2.4.8</yuicompressor.version>
 		<!-- TOMCAT version -->
