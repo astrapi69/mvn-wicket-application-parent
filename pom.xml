@@ -5,11 +5,10 @@
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-wicket-parent</artifactId>
-		<version>7.4.1</version>
+		<version>6.25.0</version>
 	</parent>
 
 	<artifactId>mvn-wicket-application-parent</artifactId>
-	<version>7.4.3</version>
 	<packaging>pom</packaging>
 
 	<name>${project.artifactId}</name>
@@ -81,7 +80,7 @@
 
 	<properties>
 		<!-- WICKET-SOURCE version -->
-		<wicket-source.version>7.0.0</wicket-source.version>
+		<wicket-source.version>6.0.0.8</wicket-source.version>
 		<!-- JETTY 9 version -->
 		<jetty9.version>9.4.0.RC3</jetty9.version>
 		<jetty9-runner.version>3.10.0</jetty9-runner.version>
@@ -93,7 +92,7 @@
 		<!-- allowed values: R7, 1.0, 1.5, 2.0 or none -->
 		<wtp.version>2.0</wtp.version>
 		<!-- MAVEN WAR PLUGIN versions -->
-		<maven-war-plugin.version>2.6</maven-war-plugin.version>
+		<maven-war-plugin.version>3.0.0</maven-war-plugin.version>
 		<!-- TOMCAT7 MAVEN PLUGIN versions -->
 		<tomcat7-maven-plugin.version>2.2</tomcat7-maven-plugin.version>
 	</properties>
