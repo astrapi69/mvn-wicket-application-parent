@@ -11,6 +11,9 @@ General parent project for wicket application projects.
 
 The source code comes under the liberal Apache License V2.0, making mvn-wicket-application-parent great for all types of ui swing applications.
 
+# Build status
+[![Build Status](https://travis-ci.org/lightblueseas/mvn-wicket-application-parent.svg?branch=master)](https://travis-ci.org/lightblueseas/mvn-wicket-application-parent)
+
 ## Maven Central
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/mvn-wicket-application-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/mvn-wicket-application-parent)
@@ -22,9 +25,12 @@ Add as parent project in the `pom.xml` file:
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-wicket-application-parent</artifactId>
-		<version>7.4.2</version>
+		<version>7.3.1</version>
 		<relativePath></relativePath>
-	</parent>	
+	</parent> 
+	
+## Open Issues
+[![Open Issues](https://img.shields.io/github/issues/astrapi69/mvn-wicket-application-parent.svg?style=flat)](https://github.com/astrapi69/mvn-wicket-application-parent/issues) 	
 
 ## Want to Help and improve it? ###
 
@@ -38,6 +44,10 @@ To share your changes, [submit a pull request](https://github.com/lightblueseas/
 
 Do not hesitate to contact the mvn-wicket-application-parent developers with your questions, concerns, comments, bug reports, or feature requests.
 - Feature requests, questions and bug reports can be reported at the [issues page](https://github.com/lightblueseas/mvn-wicket-application-parent/issues).
+
+## Note
+
+No animals were harmed in the making of this library.
 
 # Donate
 
