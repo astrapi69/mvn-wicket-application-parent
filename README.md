@@ -25,12 +25,12 @@ Add as parent project in the `pom.xml` file:
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-wicket-application-parent</artifactId>
-		<version>7.3.1</version>
+		<version>7.6.0</version>
 		<relativePath></relativePath>
 	</parent> 
 	
 ## Open Issues
-[![Open Issues](https://img.shields.io/github/issues/astrapi69/mvn-wicket-application-parent.svg?style=flat)](https://github.com/astrapi69/mvn-wicket-application-parent/issues) 	
+[![Open Issues](https://img.shields.io/github/issues/lightblueseas/mvn-wicket-application-parent.svg?style=flat)](https://github.com/lightblueseas/mvn-wicket-application-parent/issues) 	
 
 ## Want to Help and improve it? ###
 
